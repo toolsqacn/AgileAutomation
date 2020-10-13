@@ -15,7 +15,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <selenium.version>4.0.0-alpha-1</selenium.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <tess4j.version>4.2.1</tess4j.version>
   </properties>
 
